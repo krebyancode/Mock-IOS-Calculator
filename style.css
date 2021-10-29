@@ -158,3 +158,76 @@ button:hover{
     grid-area: 5/4/6/5;
 }
 
+
+@media screen and (max-width:1050px) {
+    .container{
+        max-width:1050px;
+    }
+
+    .all{
+        font-size: 3.2rem;
+        padding: 40px 0px;
+    }
+
+}
+
+@media screen and (max-width:800px) {
+    .container{
+        max-width: 800px;
+    }
+
+    .all{
+        font-size: 2.7rem;
+        padding: 25px 30px;
+    }
+
+    .characters{
+        margin-left: 20px;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .container{
+        max-width: 600px;
+    }
+
+    .all{
+        font-size: 2rem;
+        padding: 20px 20px;
+    }
+
+    .characters{
+        margin: 10px;
+    }
+}
+
+
+@media screen and (max-width:500px) {
+    .container{
+        width: 100%;
+    }
+
+    .all{
+        font-size: 1.8rem;
+        padding: 18px 22px;
+    }
+
+    .characters{
+        margin: 10px;
+    }
+}
+
+@media screen and (max-width:350px) {
+    .container{
+        width: 100%;
+    }
+
+    .all{
+        font-size: 1.6rem;
+        padding: 15px 20px;
+    }
+
+    .characters{
+        margin: 8px;
+    }
+}
