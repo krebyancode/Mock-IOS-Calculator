@@ -169,6 +169,16 @@ button:hover{
         padding: 40px 0px;
     }
 
+    #first-line{
+        font-size: 3.5rem;
+        padding: 15px 10px;
+    }
+    
+    #result-line{
+        font-size: 5.5rem;
+        padding: 15px 10px;
+    }
+
 }
 
 @media screen and (max-width:800px) {
@@ -184,6 +194,16 @@ button:hover{
     .characters{
         margin-left: 20px;
     }
+
+    #first-line{
+        font-size: 2.5rem;
+        padding: 15px 10px;
+    }
+    
+    #result-line{
+        font-size: 4rem;
+        padding: 15px 10px;
+    }
 }
 
 @media screen and (max-width:600px) {
@@ -198,6 +218,16 @@ button:hover{
 
     .characters{
         margin: 10px;
+    }
+
+    #first-line{
+        font-size: 2rem;
+        padding: 15px 10px;
+    }
+    
+    #result-line{
+        font-size: 3rem;
+        padding: 15px 10px;
     }
 }
 
@@ -215,6 +245,16 @@ button:hover{
     .characters{
         margin: 10px;
     }
+
+    #first-line{
+        font-size: 2rem;
+        padding: 15px 10px;
+    }
+    
+    #result-line{
+        font-size: 3rem;
+        padding: 15px 10px;
+    }
 }
 
 @media screen and (max-width:350px) {
@@ -230,4 +270,14 @@ button:hover{
     .characters{
         margin: 8px;
     }
+
+    #first-line{
+        font-size: 2rem;
+        padding: 15px 10px;
+    }
+    
+    #result-line{
+        font-size: 3rem;
+        padding: 15px 10px;
+    }  
 }
