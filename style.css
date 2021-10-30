@@ -146,7 +146,7 @@ button:hover{
 
 #number0{
     grid-area: 5/1/6/3;
-    border-radius: 35%;
+    border-radius: 50px;
     width: 85%;
 }
 
