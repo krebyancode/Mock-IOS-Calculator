@@ -1,4 +1,4 @@
 # Mock-IOS-Calculator
-IOS Calculator with JS
+IOS Calculator, developed with JS
 
 https://krebyancode.github.io/Mock-IOS-Calculator/
